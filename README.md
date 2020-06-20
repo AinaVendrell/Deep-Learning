@@ -34,9 +34,7 @@ resize()
 </p>
 
 ### VAE
-<p align="center">
-  <img src="Results/GAN1.png" width="300">
-</p>
+
 
 ## Conclusions
 
